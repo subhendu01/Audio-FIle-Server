@@ -14,7 +14,7 @@
 5. Start the server
     
         python app.py
-6. Now you can open browser and go to <b>localhost:3000/</b>, you will get "Server started" message.
+6. Now open any browser and go to <b>localhost:3000/</b>, you will get "Server started" message.
 
 ## - Steps to Test API:
 
